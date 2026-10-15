@@ -1,0 +1,12 @@
+name = input("Enter name: ")
+student_id = input("Enter student ID: ")
+age = int(input("Enter age: "))
+department = input("Enter department: ")
+cgpa = float(input("Enter CGPA: "))
+
+print("----- Student Profile -----")
+print("Name       :", name)
+print("Student ID :", student_id)
+print("Age        :", age)
+print("Department :", department)
+print("CGPA       :", f"{cgpa:.2f}")
