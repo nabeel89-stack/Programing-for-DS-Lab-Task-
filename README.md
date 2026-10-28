@@ -1,10 +1,9 @@
 # Programming for Data Science Labs
 
-**Student Name:** YOUR NAME HERE
-**Student ID:** YOUR STUDENT ID HERE
+**Student Name:** Tahmid Haque Nabil
+**Student ID:** 24-60205-4
 
 Course: BDS3106 - Programming for Data Science
-Department of Data Science, American International University-Bangladesh
 
 ## Structure
 
